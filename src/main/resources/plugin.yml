@@ -1,3 +1,7 @@
 name: ObsidianBreak
 main: com.zack6849.obsidianbreaker.Main
 version: 1.0
+commands:
+  obreaker:
+    description: obsidianbreaker command
+    usage: /obreaker <reload>
